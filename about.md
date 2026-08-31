@@ -1,14 +1,11 @@
-# Welcome to My Portfolio Hello! My name is boogie
+# About Me
 
-## Projects
+Hello! I am [Your Initials or Nickname].
 
-- Project 1: Description
+Write a short paragraph about your interests, skills, or goals.
 
-- Project 2: Description
+## Navigation
 
-## About Me
+[Notebook](notebook.md)
 
-Click here to learn more → [About Me](about.md)
-
-## Notebook
 [Home](index.md)
